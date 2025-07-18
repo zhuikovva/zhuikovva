@@ -18,7 +18,7 @@
 
 Нужен аналитик, который видит данные насквозь и превращает их в понятные инсайты? Давайте знакомиться! 
 Мои контакты: 
-- [Резюме](https://github.com/zhuikovva/portfolio_data_analyst/blob/master/%D0%96%D1%83%D0%B9%D0%BA%D0%BE%D0%B2%20CV_2025.pdf)
+- [Резюме](https://github.com/zhuikovva/zhuikovva/blob/master/%D0%96%D1%83%D0%B9%D0%BA%D0%BE%D0%B2%20CV_2025.pdf)
 - tg: https://t.me/ZhuikovVsevolod
 - email: vsevolod1905@yandex.ru
 - телефон: +79153207380
