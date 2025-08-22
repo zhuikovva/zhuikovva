@@ -18,7 +18,7 @@
 
 Мои навыки анализа данных помогают находить скрытые закономерности и принимать обоснованные решения. Готов внести вклад в ваш проект. 
 Мои контакты: 
-- [Резюме](https://github.com/zhuikovva/zhuikovva/blob/master/%D0%96%D1%83%D0%B9%D0%BA%D0%BE%D0%B2%20CV_2025.pdf)
+- [Резюме](https://github.com/zhuikovva/zhuikovva/blob/master/%D0%96%D1%83%D0%B9%D0%BA%D0%BE%D0%B2_%D0%92%D1%81%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D0%B4.pdf)
 - tg: https://t.me/ZhuikovVsevolod
 - email: vsevolod1905@yandex.ru
 - телефон: +79153207380
